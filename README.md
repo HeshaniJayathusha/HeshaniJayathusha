@@ -1,7 +1,7 @@
 # Hi, I'm Heshani Jayathusha 👋
 
 🎓 **IT & Management Undergraduate** at University of Colombo  
-📊 **Data Analyst | AI & Machine Learning Enthusiast**  
+📊 **Data Analyst | Business Analyst | Data Engineer | AI & Machine Learning Enthusiast**  
 
 I am passionate about turning raw data into meaningful insights and building intelligent, data-driven solutions using analytics and machine learning.
 
